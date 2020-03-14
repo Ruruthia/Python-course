@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1250ccc4-42cf-47b5-83c8-9235a73f6454" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Python_Course.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista1/.idea/Lista1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista1/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista1/Zadanie1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista1/Zadanie1_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista1/Zadanie2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista1/Zadanie2_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista1/Zadanie3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista1/Zadanie4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista1/Zadanie4_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista1/lista01.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista10/Zadanie1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista11/Zadanie1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista11/baza.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista2/.idea/Lista2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista2/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista2/Zadanie1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista2/Zadanie1_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista2/lista02.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista3/Zadanie2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista3/Zadanie2_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista3/Zadanie4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista3/Zadanie4_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista3/Zadanie5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista3/Zadanie5_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista3/lista03.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista3/pan-tadeusz.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista4/Zadanie1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista4/Zadanie1_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista4/Zadanie2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista4/Zadanie2_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista4/lista04.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista5/Zadanie1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista5/Zadanie1_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista5/Zadanie4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista5/Zadanie4_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista5/lista05.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista6/Zadanie1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista7/Zadanie1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista8/Zadanie2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista9/Zadanie2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista9/apple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista9/tree.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Z4XnPtNiJhjAJJCutDHOd6tcCA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Lista11" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Lista11" />
+      <recent name="$PROJECT_DIR$/Lista10" />
+      <recent name="$PROJECT_DIR$/Lista9" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Zadanie2">
+    <configuration name="Zadanie1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lista4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lista4/Zadanie1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Zadanie1 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lista5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lista5/Zadanie1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Zadanie1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lista7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lista7/Zadanie1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Zadanie2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lista4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lista4/Zadanie2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Zadanie2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lista8" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lista8/Zadanie2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Zadanie2" />
+        <item itemvalue="Python.Zadanie1" />
+        <item itemvalue="Python.Zadanie1 (2)" />
+        <item itemvalue="Python.Zadanie2 (1)" />
+        <item itemvalue="Python.Zadanie1 (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1250ccc4-42cf-47b5-83c8-9235a73f6454" name="Default Changelist" comment="" />
+      <created>1584099506807</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584099506807</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1895" height="272" key="GridCell.Tab.0.bottom" timestamp="1584209189247">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state width="1895" height="272" key="GridCell.Tab.0.bottom/0.34.1920.1046@0.34.1920.1046" timestamp="1584209189247" />
+    <state width="1895" height="272" key="GridCell.Tab.0.center" timestamp="1584209189246">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state width="1895" height="272" key="GridCell.Tab.0.center/0.34.1920.1046@0.34.1920.1046" timestamp="1584209189246" />
+    <state width="1895" height="272" key="GridCell.Tab.0.left" timestamp="1584209189246">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state width="1895" height="272" key="GridCell.Tab.0.left/0.34.1920.1046@0.34.1920.1046" timestamp="1584209189246" />
+    <state width="1895" height="272" key="GridCell.Tab.0.right" timestamp="1584209189246">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state width="1895" height="272" key="GridCell.Tab.0.right/0.34.1920.1046@0.34.1920.1046" timestamp="1584209189246" />
+    <state x="706" y="293" width="1037" height="736" key="SettingsEditor" timestamp="1584180503380">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="706" y="293" width="1037" height="736" key="SettingsEditor/0.34.1920.1046@0.34.1920.1046" timestamp="1584180503380" />
+    <state x="615" y="384" key="com.intellij.ide.util.TipDialog" timestamp="1584209229757">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="615" y="384" key="com.intellij.ide.util.TipDialog/0.34.1920.1046@0.34.1920.1046" timestamp="1584209229757" />
+  </component>
+</project>
